@@ -6,7 +6,7 @@ export default defineConfig({
     output:{
         dir:"dist",
         format:"es",
-        name:"demo-package-2",
+        name:"aayush-demo-package-2",
     },
     external:["react","react-dom"],
     plugins:[typescript({tsconfig:"tsconfig.json"})]

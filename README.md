@@ -1,3 +1,9 @@
+- npm run build
+- npm login
+- npm publish
+
+
+
 **Rollup vs Vite (Short Explanation)**  
 
 - **Rollup**: A JavaScript module bundler focused on optimizing production builds. It creates smaller and tree-shaken bundles but has slower development builds.  
