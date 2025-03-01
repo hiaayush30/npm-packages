@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "target": "ES2020",
+    "module": "ESNext",
+    "declaration": true,  //to generate types you have created like ButtonProps
+    "declarationDir": "./dist/index.d.ts",  //where to create
+    "strict": true,
+    "jsx": "react"
+  }
+}
