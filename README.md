@@ -2,8 +2,8 @@
 - npm login
 - npm publish
 ---
-- npm link aayush-demo-package-2 `in testing to to test package before publishing` 
-- `Note:` change version number (if publishing) and build it after every change in npm package and link again
+- npm link aayush-demo-package-2 `in testing to to test package before publishing` (package in adjacent folder here) 
+- `Note:` after every change => build it and change version number (if publishing) after every change in npm package and link again
 - npm unlink aayush-demo-package-2
 ---
 
